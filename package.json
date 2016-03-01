@@ -1,0 +1,28 @@
+{
+  "name": "@jekrb/masthead",
+  "version": "1.0.0",
+  "description": "jekrb.codes masthead",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jekrb/masthead.git"
+  },
+  "keywords": [
+    "jekrb.codes",
+    "masthead"
+  ],
+  "author": "Jacob Burden <Jacob.JW.Burden@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jekrb/masthead/issues"
+  },
+  "homepage": "https://github.com/jekrb/masthead#readme",
+  "devDependencies": {
+    "hyperx": "^1.3.1",
+    "tape": "^4.4.0",
+    "virtual-dom": "^2.1.1"
+  }
+}
