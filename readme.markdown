@@ -7,9 +7,10 @@ masthead for jekrb.codes
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 ### install
+
 ```
 npm install @jekrb/masthead --save
-``
+```
 
 ## usage
 ```js
