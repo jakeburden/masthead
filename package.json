@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/jekrb/masthead#readme",
   "devDependencies": {
-    "hyperx": "^2.0.1",
+    "hyperx": "^2.1.0",
     "tape": "^4.4.0",
     "virtual-dom": "^2.1.1"
   }
